@@ -5,7 +5,7 @@ He/Him · Columbus, OH<br>
 **Systems Admin** and **Developer**
 
 Usually doing something with software-defined infrastructure, automation, or building CLI tools.<br>
-Tinkerer, open-source advocate, and and Obsidian cultist.
+Tinkerer, open-source advocate, and Obsidian cultist.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
