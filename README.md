@@ -28,6 +28,6 @@ Tinkerer, open-source advocate, and Obsidian cultist.
 
 ---
 
-Links: [Bento](https://bento.me/jakewells) · [LinkedIn](https://www.linkedin.com/in/wells-jake/) · [Mastodon](https://mastodon.online/@jakewells) · [Read.cv](https://read.cv/jakewells)
+Links: [Bento](https://bento.me/jakewells) · [LinkedIn](https://www.linkedin.com/in/wells-jake/) · [Mastodon](https://mastodon.online/@jakewells)
 
 </div>
